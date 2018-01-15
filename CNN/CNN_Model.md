@@ -1,6 +1,7 @@
 # 卷积神经网络经典模型解析
 
-> Version: 1.0.0 
+> Version: 1.0.0
+>
 > Author: zhangmm 
 > CreateDate: 2018-01-15 12:33 
 > ModifiedDate: 2018-01-05 12:33 
